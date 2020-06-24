@@ -1,6 +1,7 @@
 const nav = require('./config/nav.js');
 
 module.exports = {
+    // port: 1234,
     title: "Liu Jiawei's blog",
     description: '后端学习与总结。JVM，多线程，网络等技术文章。', // 描述,以 <meta> 标签渲染到页面html中
     base: '/myJavaDoc/', // '/<github仓库名>/'， 默认'/'
