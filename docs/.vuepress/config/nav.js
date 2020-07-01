@@ -5,7 +5,7 @@ module.exports = [
     link: '/java/',  //目录页，vdoing主题新增的配置项，有二级导航时，可以点击一级导航跳到目录页
     items: [
       {text: '后端文章', items: [
-        {text: 'HashMap', link: '/pages/hashMap/data-structure'}, // 注意link结尾有斜杠和没有斜杠的区别
+        {text: 'HashMap', link: '/pages/collection/hashMap/data-structure'}, // 注意link结尾有斜杠和没有斜杠的区别
       ]},
       {text: '学习笔记', items:[
         {text: '《深入理解Java虚拟机》笔记', link: '/note/jvmBook/'},
