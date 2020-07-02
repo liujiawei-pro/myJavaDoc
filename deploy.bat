@@ -8,7 +8,7 @@ cd docs/.vuepress/dist
 git init
 git add -A
 git commit -m 'auto-deploy'
-git remote add origin https://github.com/prt879/myJavaDoc.git
+git remote add origin https://github.com/liujiawei-pro/myJavaDoc.git
 git pull
 git push --force origin HEAD:gh-pages
 
